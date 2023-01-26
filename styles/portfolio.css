@@ -138,6 +138,41 @@ main {
     font-size: 20px;
     color: #474747;
 }
-.about-info{
+
+.about-info {
     margin-left: 50px;
+}
+
+/* what i do */
+
+.what-i-do {
+    margin-top: 130px;
+    background: #FFF8F3;
+
+}
+
+.skills-container {
+    display: flex;
+    gap: 24px;
+
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.skills {
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.skill-drescription {
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
 }
